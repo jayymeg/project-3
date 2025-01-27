@@ -1,4 +1,3 @@
-```markdown
 # Step 1: Set Up the Project
 
 ## Create a New Directory for Your Project
