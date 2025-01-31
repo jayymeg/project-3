@@ -1,7 +1,7 @@
 ## Scenario
 During the development process, two developers working on separate branches accidentally introduced conflicting changes into the `main` branch after a failed merge. Your task is to resolve the conflict, ensure code integrity, and identify how the team can prevent such issues in the future.
 
-## Deliverable
+# Deliverable
 Demonstrate how to resolve the merge conflict by:
 - Pulling the latest code
 - Identifying the conflicting files
@@ -13,7 +13,7 @@ After resolving the conflict, update the team’s Git workflow with measures to 
 
 
 
-To resolve the merge conflict and prevent future issues, follow these steps:
+##To resolve the merge conflict and prevent future issues, follow these steps:
 
 ### Resolving the Merge Conflict:
 1. **Pull the Latest Code**:  
