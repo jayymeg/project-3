@@ -1,5 +1,22 @@
 
-# **Task 4: Enforce Security Best Practices in Your Git Repository**
+# Scenario
+With distributed teams, securing the source code repository is critical. You need to enforce security measures that ensure sensitive data is protected and unauthorized changes cannot be made to the codebase.
+
+Implement security best practices in Git, including:
+- Setting up user access controls
+- Managing SSH keys
+- Enforcing branch protection
+- Using signed commits for critical code changes
+
+Ensure that there is a mechanism for auditing changes so all code modifications can be tracked and verified.
+
+## Deliverable
+- Set up security best practices in your Git repository.
+- Document how you configured access controls, enabled branch protection, and enforced commit signing.
+- Explain how these measures ensure the security and integrity of the codebase.
+
+
+# **Enforce Security Best Practices in Your Git Repository**
 
 ## **1. Set Up User Access Controls**
 
