@@ -1,3 +1,20 @@
+# Automate Code Quality and Deployment
+
+## CI/CD Integration
+To ensure code quality and rapid iteration, the team wants to integrate Git with a Continuous Integration/Continuous Deployment (CI/CD) pipeline. You are tasked with setting up automated tests that run every time a new feature branch is pushed.
+
+Use **GitHub Actions** to set up the pipeline. Ensure that the pipeline:
+- Automatically runs unit tests
+- Checks for code quality
+- Deploys changes to a staging environment when tests pass
+
+## Deliverable
+- Implement a CI/CD pipeline using Git integration.
+- Provide documentation explaining:
+  - How the pipeline works
+  - How to trigger tests
+  - How to deploy new code
+
 # Step 1: Set Up the Project
 
 ## Create a New Directory for Your Project
