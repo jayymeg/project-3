@@ -14,16 +14,20 @@ Organize your project by creating the necessary folders:
 ```bash
 mkdir -p .github/workflows src test
 ```
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/P%201.png)
+
 
 ## Create the Files
 Create the following files with the specified paths:
 
 - `src/app.js`
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%201.png)
 - `test/app.test.js`
 - `.github/workflows/ci-cd.yml`
 - `.eslintrc.json`
 - `package.json`
 - `README.md`
+
 
 ---
 
