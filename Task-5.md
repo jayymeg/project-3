@@ -11,7 +11,7 @@ After resolving the conflict, update the team’s Git workflow with measures to 
 - Better communication
 - Smaller, more frequent pull requests
   
-## To resolve the merge conflict and prevent future issues, follow these steps:
+# To resolve the merge conflict and prevent future issues, follow these steps:
 
 ### Resolving the Merge Conflict:
 1. **Pull the Latest Code**:  
