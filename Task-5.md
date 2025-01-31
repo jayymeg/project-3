@@ -1,4 +1,4 @@
-# Scenario
+# Resolving Git Merge Conflicts in a Real-World Scenario
 During the development process, two developers working on separate branches accidentally introduced conflicting changes into the `main` branch after a failed merge. Your task is to resolve the conflict, ensure code integrity, and identify how the team can prevent such issues in the future.
 
 ### Deliverable
