@@ -1,7 +1,7 @@
-## Scenario
+# Scenario
 During the development process, two developers working on separate branches accidentally introduced conflicting changes into the `main` branch after a failed merge. Your task is to resolve the conflict, ensure code integrity, and identify how the team can prevent such issues in the future.
 
-# Deliverable
+### Deliverable
 Demonstrate how to resolve the merge conflict by:
 - Pulling the latest code
 - Identifying the conflicting files
