@@ -22,12 +22,18 @@ Create the following files with the specified paths:
 
 - `src/app.js`
 ![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%201.png)
-- `test/app.test.js`
-- `.github/workflows/ci-cd.yml`
-- `.eslintrc.json`
-- `package.json`
-- `README.md`
 
+- `test/app.test.js`
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%202.png)
+
+- `.github/workflows/ci-cd.yml`
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%203.png)
+
+- `.eslintrc.json`
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%204.png)
+
+- `package.json`
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/file%205.png)
 
 ---
 
@@ -38,6 +44,10 @@ Run the following commands to install Jest and ESLint as development dependencie
 ```bash
 npm install jest eslint --save-dev
 ```
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/p%202.png)
+
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/p%203.png)
+
 
 ---
 
@@ -60,6 +70,7 @@ git remote add origin <repository-url>
 git branch -M main
 git push -u origin main
 ```
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/p%204.png)
 
 ---
 
@@ -72,6 +83,7 @@ Create a new branch for testing the pipeline:
 git checkout -b feature/test-pipeline
 git push origin feature/test-pipeline
 ```
+![my image](https://github.com/jayymeg/project-3/blob/07bfae7ad74ef5fbf9f5bffd7b4f21ba61603832/Task-3/Task-3%20images/p%205.png)
 
 ## Monitor the Workflow
 1. Go to the **Actions** tab in your GitHub repository.
